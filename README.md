@@ -3,7 +3,8 @@ LSTM Stock Price Prediction Model 🚀
 
 A deep learning model using LSTM (Long Short-Term Memory) networks to predict stock prices with historical data. Currently configured for AAPL (Apple Inc.) stock data.
 
-Show Image
+![image](https://github.com/user-attachments/assets/c8114ca6-1636-4a3f-8f8c-93bc5edde410)
+
 
 Table of Contents
 -----------------
