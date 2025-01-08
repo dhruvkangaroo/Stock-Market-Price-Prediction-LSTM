@@ -51,7 +51,9 @@ Key Features:
 Project Timeline
 ----------------
 
-### Phase 1: Research and Foundation (2 weeks)
+### Phase 1: Research and Foundation (4 weeks)
+
+*   Learnt about AI, how to train, etc
 
 *   Literature review of stock price prediction methods
     
@@ -66,14 +68,12 @@ Project Timeline
 
 *   Data cleaning and normalization
     
-*   Feature engineering
-    
 *   Implementation of technical indicators
     
-*   Creation of training and testing datasets
+*   Fiding of training datasets
     
 
-### Phase 3: Model Development (2 weeks)
+### Phase 3: Model Development (1 weeks)
 
 *   LSTM model architecture design
     
@@ -81,10 +81,7 @@ Project Timeline
     
 *   Hyperparameter tuning
     
-*   Training pipeline setup
-    
-
-### Phase 4: Optimization and Evaluation (2 weeks)
+### Phase 4: Optimization and Evaluation (0.5 weeks)
 
 *   Model performance optimization
     
