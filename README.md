@@ -33,7 +33,7 @@ Table of Contents
 Project Overview
 ----------------
 
-This project implements a deep learning approach to stock price prediction using LSTM networks. The model analyzes 10 years of historical stock data to predict future stock prices. The implementation includes data preprocessing, model training, and evaluation phases.
+This project of mine implements a deep learning approach to stock price prediction using LSTM networks. It analyzes 10 years of historical stock data to predict future stock prices. The implementation includes data preprocessing, model training, and evaluation phases.
 
 Key Features:
 
@@ -46,51 +46,6 @@ Key Features:
 *   Comparative analysis with moving averages
     
 *   Interactive visualization of predictions
-    
-
-Project Timeline
-----------------
-
-### Phase 1: Research and Foundation (4 weeks)
-
-*   Learnt about AI, how to train, etc
-
-*   Literature review of stock price prediction methods
-    
-*   Study of LSTM networks and their applications
-    
-*   Basic Python and deep learning framework setup
-    
-*   Initial data collection and exploration
-    
-
-### Phase 2: Data Processing (2 weeks)
-
-*   Data cleaning and normalization
-    
-*   Implementation of technical indicators
-    
-*   Fiding of training datasets
-    
-
-### Phase 3: Model Development (1 weeks)
-
-*   LSTM model architecture design
-    
-*   Initial model implementation
-    
-*   Hyperparameter tuning
-    
-### Phase 4: Optimization and Evaluation (0.5 weeks)
-
-*   Model performance optimization
-    
-*   Error analysis and debugging
-    
-*   Implementation of evaluation metrics
-    
-*   Documentation and code cleanup
-    
 
 Installation
 ------------
